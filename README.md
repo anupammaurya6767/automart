@@ -1,4 +1,4 @@
-# AutoMart: Intelligent Retail Management System
+# AutoMart: Intelligent Retail Management System (ITS A PAID PROJECT, CODE IS NOT PUBLIC)
 
 ## Overview
 
